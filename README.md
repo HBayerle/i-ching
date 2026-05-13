@@ -12,4 +12,8 @@ A minimalist Flutter application inspired by the I Ching (Book of Changes).
 This repository contains the Flutter source code without copyrighted text assets.
 
 To build the app:
+flutter build apk --release
 
+## License
+© 2026 Helmut Bayerle. All rights reserved.  
+Source code and content may not be copied, modified, or redistributed.
